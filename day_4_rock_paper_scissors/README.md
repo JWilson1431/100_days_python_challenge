@@ -1,0 +1,1 @@
+This is a very basic rock, paper, scissors game. The computer chooses an integer and so does the user. A dictionary with the integers and the strings to identify rock, paper, or scissors makes the link between the choices.
