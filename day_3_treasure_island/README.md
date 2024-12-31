@@ -1,0 +1,1 @@
+This is a fun treasure island game designed with user input choices. The choices the user makes determines if they ultimately reach the treasure or perish!
