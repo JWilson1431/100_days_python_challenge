@@ -1,0 +1,1 @@
+This is a very basic band name generator. It takes the user input for their city of birth and their pet's name. It then creates a band name using those strings.
