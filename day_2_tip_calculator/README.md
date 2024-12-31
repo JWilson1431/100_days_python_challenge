@@ -1,0 +1,1 @@
+This is a basic calculator that can determine how much a tip should be, the total bill, and the amount per person for the bill.
