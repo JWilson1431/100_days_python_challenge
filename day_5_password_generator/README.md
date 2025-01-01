@@ -1,0 +1,1 @@
+This is a basic password generator. The program asks for the user input to determine the number of letters, symbols, and numbers. It then creates a randomly shuffled list of characters as the password.
