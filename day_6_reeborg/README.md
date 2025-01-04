@@ -1,0 +1,1 @@
+Day 6 was completed externally at Reeborg's World site. This was an escape the maze project related to functions.

@@ -1,0 +1,1 @@
+This is a user interactive game of hangman. The user starts with 6 lives and guesses letters until they either guess the word correctly or run out of lives.
