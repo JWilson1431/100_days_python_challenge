@@ -1,0 +1,1 @@
+This is a basic auction application. It takes in all the bidders names and amounts into a dictionary. It then finds the highest bidder and reports the winner to the user.
