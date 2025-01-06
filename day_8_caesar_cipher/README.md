@@ -1,0 +1,1 @@
+Day 8 challenge is a simple password encrypting application. It gets user input to determine if the user wants to encrypt or decrypt, the input message, and the # of characters the user wants to shift by. Then it shifts letters in the alphabet list to either encode or decode the string.
