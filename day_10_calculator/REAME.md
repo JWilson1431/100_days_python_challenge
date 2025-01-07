@@ -1,0 +1,1 @@
+This is a basic calculator application to multiply, add, subtract or divide. The user can decide to keep using their total for the next calculation or start over to generate a new total.
