@@ -1,0 +1,1 @@
+A basic game of blackjack where the user plays against the computer.
