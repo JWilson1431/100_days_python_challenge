@@ -1,0 +1,1 @@
+This is a game where the computer chooses a random number and the user must guess the number before their number of turns reaches 0. The number of turns depends on if the user chooses easy or hard level.
