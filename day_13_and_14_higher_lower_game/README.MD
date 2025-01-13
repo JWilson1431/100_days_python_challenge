@@ -1,0 +1,1 @@
+This is a game of comparison of followers for two celebrities. The game chooses two random items from the game data and presents the user with their name and description. The user must guess which one has more followers. Each time the user guesses correctly, they gain a point. If they choose incorrectly, they go back to 0 points.
