@@ -1,0 +1,1 @@
+This programs simulates a coffee machine. It contains resources to make the coffee, a menu of coffee items available, and accepts coins as payment. It ensures the user has paid sufficiently, returns change, checks resources to determine if there is enough to make the chosen coffee, and returns a report of available resources.
