@@ -1,0 +1,1 @@
+This game contains several quiz questions that the user must try to answer. It keeps track of the score and the user keeps going until they get one wrong.
