@@ -1,0 +1,1 @@
+This project uses the turtle module and a list of colors to make a Hirst painting replica.
