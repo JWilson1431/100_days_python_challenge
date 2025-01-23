@@ -1,0 +1,1 @@
+This is a game where a turtle tries to cross the road without making contact with any cars. The cars speed up with each round. If the turtle is hit by a car, the game starts over at level 0.
