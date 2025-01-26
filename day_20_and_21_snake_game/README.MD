@@ -1,0 +1,1 @@
+Day 20 and 21 involved creating a snake game using Turtle. The snakes movement is controlled by the user and the goal is for the snake to eat the food. The snake gets longer each time it gets a piece of food.
