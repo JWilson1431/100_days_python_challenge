@@ -1,0 +1,1 @@
+This is a basic pong game with a ball and 2 paddles.
