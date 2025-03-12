@@ -1,0 +1,1 @@
+Basic mail merger application
