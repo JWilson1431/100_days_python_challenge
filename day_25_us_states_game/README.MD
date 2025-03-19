@@ -1,0 +1,1 @@
+A quiz game that displays a map and allows the user to try to guess all 50 states. When the user guesses a state, the name of the state displays in the appropriate location on the map. After the user has guessed all the states they are able to think of, they receive a document that lists the states they missed.
